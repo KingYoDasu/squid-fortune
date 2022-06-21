@@ -282,7 +282,7 @@ li {
   margin-top: 50px;
   margin-bottom: 30px;
 }
-@media screen and (max-width: 1950px) {
+@media screen and (max-width: 768px) {
   #review .comment {
     flex-direction: column;
     resize: both;
