@@ -242,7 +242,8 @@ li {
   line-height: 1.6;
 }
 
-#review .comment {
+
+#review .comment.columns {
   display: flex;
   flex-direction: row;
   flex-flow: row wrap;
@@ -282,7 +283,7 @@ li {
   margin-top: 50px;
   margin-bottom: 30px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1300px) {
   #review .comment {
     flex-direction: column;
     resize: both;
