@@ -219,7 +219,7 @@ li {
   line-break: auto;
 }
 
-@media screen and (max-width: 1950px) {
+@media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
   }
@@ -337,7 +337,7 @@ li {
   margin-bottom: 20px;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
   }
